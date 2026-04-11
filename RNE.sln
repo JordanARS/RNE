@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RneBulkWorker", "RneBulkWorker\RneBulkWorker.csproj", "{8BD730A9-7334-7AEF-2FA3-96268FB9499E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BD730A9-7334-7AEF-2FA3-96268FB9499E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BD730A9-7334-7AEF-2FA3-96268FB9499E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BD730A9-7334-7AEF-2FA3-96268FB9499E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BD730A9-7334-7AEF-2FA3-96268FB9499E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {670B7BE6-245C-460E-A07F-269309025BD5}
+	EndGlobalSection
+EndGlobal

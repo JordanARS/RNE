@@ -1,0 +1,2705 @@
+{
+   "odata.metadata" : "https://181.79.11.178:50000/b1s/v1/$metadata#BusinessPartners",
+   "value" : [
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1000350389",
+         "CardName" : "GARCIA TELLEZ SEBASTIAN MAURICIO",
+         "Phone1" : "3203553745",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1000695045",
+         "CardName" : "MARTINEZ MUETE MICHAEL SANTIAGO",
+         "Phone1" : "3173170273",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1000855284",
+         "CardName" : "GARAVITO CASTRO EDWARD SANTIAGO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1000986296",
+         "CardName" : "AREVALO MANOTAS ANDRES ENRIQUE",
+         "Phone1" : "3213813873",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1000989610",
+         "CardName" : "RAMIREZ RAMIREZ CRISTIAN CAMILO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1001118419",
+         "CardName" : "RANGEL UMAÑANA MICHEL FELIPE",
+         "Phone1" : "3227026040",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C10022508",
+         "CardName" : "CASTAÑO VELASQUEZ OSCAR",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1002462175",
+         "CardName" : "RINCON BUITRAGO RAUL ARMANDO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1002740358",
+         "CardName" : "RINCON CHONA JONHATAN RAFAEL",
+         "Phone1" : "3216239913",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1003522736",
+         "CardName" : "RODRIGUEZ CANO FABIAN",
+         "Phone1" : "3167620426",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1003805593",
+         "CardName" : "RODRIGUEZ SALDAÑA ANDRES FELIPE",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1003812499",
+         "CardName" : "RAMIREZ TORRES MAICOL ANDRES",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1004323098",
+         "CardName" : "NIEBLES ARIZA WILDER",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1004373610",
+         "CardName" : "GUTIERREZ SOLANO CRISTIAN DAVID",
+         "Phone1" : "3012404666",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1005078341",
+         "CardName" : "LAGUADO MANTILLA ANGELICA",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1005252523",
+         "CardName" : "MORENO MORENO BRAYAN STUART",
+         "Phone1" : "3148662190",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1005602218",
+         "CardName" : "DAURTE RAMIREZ JORGE LEONARDO",
+         "Phone1" : "3214356784",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1005771250",
+         "CardName" : "MARIN CARDENAS JUAN DIEGO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1005820715",
+         "CardName" : "GARCIA MONCADA ANDRES CAMILO",
+         "Phone1" : "3122471276",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1005859047",
+         "CardName" : "ALVIS DIAZ LUIS ALVARO",
+         "Phone1" : "3145241053",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006156230",
+         "CardName" : "NIETO RADA EDWIN",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006234845",
+         "CardName" : "RODRIGUEZ VELASCO BRAYAN STIVEN",
+         "Phone1" : "3172265496",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006409882",
+         "CardName" : "VILLAMIZAR VILLAMIZAR ANDERSON ESTIVEN",
+         "Phone1" : "3178741230",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006415453",
+         "CardName" : "DIAZ TAPIAS BRAYAN STIBEN",
+         "Phone1" : "3209348895",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006418734",
+         "CardName" : "ALVIS RUIZ GILBERTO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006441276",
+         "CardName" : "CHAPARRO CUCHIGAY DANIEL DAVID",
+         "Phone1" : "3228835799",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006489394",
+         "CardName" : "RODRIGUEZ CABARTE EDGAR",
+         "Phone1" : "3123107189",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006656037",
+         "CardName" : "OSPINA BEJARANO JOHAN CAMILO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006691141",
+         "CardName" : "CUELLAR VELASQUEZ JAIDER ESTIBEN",
+         "Phone1" : "3205586006",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006693058",
+         "CardName" : "RODRIGUEZ GARCIA BRAYAN ESTIBEN",
+         "Phone1" : "3172898993",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006697131",
+         "CardName" : "BARRERA SEPULVEDA LUIS DARIO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006697146",
+         "CardName" : "CLAVIJO CIFUENTES YEIMER HERNAN",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006722001",
+         "CardName" : "HERNANDEZ VANEGAS YORMAN FABIAN",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006738034",
+         "CardName" : "DIAZ GARAVIOI SANDRA YINETH",
+         "Phone1" : "3224318352",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006768618",
+         "CardName" : "CORONADO PINILLA JESUS ANDRES",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006768660",
+         "CardName" : "CORONADO PINILLA CHRISTIAN LISANDRO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006774192",
+         "CardName" : "MORALES ORTIZ CARLOS ALBERTO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006775303",
+         "CardName" : "SANCHEZ JUAN EDUARDO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006775417",
+         "CardName" : "VALDERRAMA GORDILLO ALEJANDRO HUMBERTO",
+         "Phone1" : "3229331569",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006776185",
+         "CardName" : "MORA VICTOR MANUEL",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006797349",
+         "CardName" : "GAITAN OSPINA JORGE SEBASTIAN",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006797362",
+         "CardName" : "QUEVEDO REY YOJAN EDUARDO",
+         "Phone1" : "3014054536",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006797771",
+         "CardName" : "ABRIL ZAMBRANO YULIANA KATHERINE",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006797961",
+         "CardName" : "ARENAS RUIZ MARIAM XILENE",
+         "Phone1" : "3108723155",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006799024",
+         "CardName" : "REINA RUIZ IVAN ANDREY",
+         "Phone1" : "312369577",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006799718",
+         "CardName" : "AGUIRRE RESTREPO ALVARO ANDRES",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006808948",
+         "CardName" : "UBAQUE SANDOVAL ELGAR",
+         "Phone1" : "3123800392",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006821497",
+         "CardName" : "GARZON CLAVIJO RICARDO",
+         "Phone1" : "3203175178",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006821579",
+         "CardName" : "RIOS MONTAÑA BRAYAN DAVID",
+         "Phone1" : "1006821579",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006823531",
+         "CardName" : "GALINDO DURAN LUIS ANGELO",
+         "Phone1" : "3143981887",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006823933",
+         "CardName" : "SUAREZ RODRIGUEZ ANDRES FELIPE",
+         "Phone1" : "3124722564",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006825496",
+         "CardName" : "REYES CRUZ CRISTHIAN ALEXANDER",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006825830",
+         "CardName" : "SICACHA ORTIZ YEHISON ALEXANDER",
+         "Phone1" : "3115651264",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006826609",
+         "CardName" : "AGUIRRE RESTREPO JOSE YAMEL",
+         "Phone1" : "3103173642",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006827053",
+         "CardName" : "CASTILLO LOZANO DANIEL HERNANDO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006857773",
+         "CardName" : "OCHOA POVEDA OSCAR MAURICIO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006859343",
+         "CardName" : "MARTINEZ SUSPE JHONATAN MANUEL",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006859857",
+         "CardName" : "GARCIA CARDENAL JAIME FELIPE",
+         "Phone1" : "3123087032",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006874488",
+         "CardName" : "MORA GALINDO JUAN JOSE",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006875195",
+         "CardName" : "CORREAL BAQUERO IVAN SANTIAGO",
+         "Phone1" : "3193282990",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006877668",
+         "CardName" : "ARBOLEDA SALINAS KLEIN DAMAWER",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006879292",
+         "CardName" : "MENDOZA MARTINEZ EDIMER ESNEIDER",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006944049",
+         "CardName" : "TRIANA SALAZAR GERARDO",
+         "Phone1" : "3157929326",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006944293",
+         "CardName" : "CHAVES DIAZ JHEISON",
+         "Phone1" : "3178715560",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006945445",
+         "CardName" : "SOSA RUIZ GIVER",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006945703",
+         "CardName" : "CHAVES GAITAN SEVERIANO",
+         "Phone1" : "3184613608",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006945754",
+         "CardName" : "GAITAN CAMARGO WALKIRIO",
+         "Phone1" : "3175752134",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006945802",
+         "CardName" : "GAITAN CABARE ESTEBAN",
+         "Phone1" : "3165500067",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1006998549",
+         "CardName" : "ANDRADE ZAMBRANO ANDERSON JILBERTH",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1007147239",
+         "CardName" : "OCORO LARRAHONDO LEISON",
+         "Phone1" : "3148753975",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1007147592",
+         "CardName" : "OCORO GOMEZ FELIX MANUEL",
+         "Phone1" : "3156789352",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1007184286",
+         "CardName" : "ROMERO HERNANDEZ JONATAN SEBASTIAN",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1007293601",
+         "CardName" : "LANCHEROS LESMES BRAYAN ESTIVEN",
+         "Phone1" : "3125898127",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1007293785",
+         "CardName" : "TOQUICA VILLADA EDILBERTO",
+         "Phone1" : "3203383541",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1007329958",
+         "CardName" : "BERMUDEZ BENJUMEA YINER JULIAN",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1007397257",
+         "CardName" : "ROMERO MARTINEZ CARLOS ALBERTO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1007421012",
+         "CardName" : "BERNAL OLARTE DANIEL STEVEN",
+         "Phone1" : "3212193164",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1007479245",
+         "CardName" : "RODRIGUEZ LANCHEROS CARLOS ALBERTO",
+         "Phone1" : "3103344841",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1007526704",
+         "CardName" : "HERNANDEZ OQUENDO JHON JAMER",
+         "Phone1" : "3148445256",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1007702725",
+         "CardName" : "PEREZ URIBE JHON EDICSON",
+         "Phone1" : "3102838289",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1007766894",
+         "CardName" : "CRUZ ALFONSO ANDERSON",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1007789509",
+         "CardName" : "GOMEZ ASCENCIO JOHAN CAMILO",
+         "Phone1" : "3125545922",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1007802072",
+         "CardName" : "RAMIREZ ALVAREZ HECTOR STIVEN",
+         "Phone1" : "3102649019",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1007979462",
+         "CardName" : "GONZALEZ ROJAS LUIS CARLOS",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C10096617",
+         "CardName" : "RAMIREZ BASQUEZ ALDEMAR",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1010023405",
+         "CardName" : "BECERRA GAITAN LUIS CARLOS",
+         "Phone1" : "3102569802",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1010155935",
+         "CardName" : "HERNANDEZ AMAYA JUAN PABLO",
+         "Phone1" : "3106208027",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1010200857",
+         "CardName" : "ORTIZ ROMERO DANIEL ANDRES",
+         "Phone1" : "3185741103",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1010211908",
+         "CardName" : "MOLANO MEDINA ANDERSON ANTONIO",
+         "Phone1" : "3194460805",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1012432980",
+         "CardName" : "SUTA TORRES LUIS FERNANDO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C10127628",
+         "CardName" : "VALENCIA ORTIZ JAIME OLIER",
+         "Phone1" : "3184607352",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1014176574",
+         "CardName" : "REYES GOEZ JAVIER JAIR",
+         "Phone1" : "3122801085",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1014195626",
+         "CardName" : "SANCHEZ TRUJILLO ARNULFO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1014274284",
+         "CardName" : "CAMPOS MONTEALEGRE DAVISON ALEXANDER",
+         "Phone1" : "3042197282",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C10144353",
+         "CardName" : "RIOS VALENCIA JOSE RUBIEL",
+         "Phone1" : "3203477306",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C10172238",
+         "CardName" : "SANCHEZ FORERO OSCAR",
+         "Phone1" : "3104675532",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1018441594",
+         "CardName" : "GONZALEZ BRAND BRAYAN STIVEN",
+         "Phone1" : "3106189970",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1019035002",
+         "CardName" : "ROCHA GARAVITO JOSE ARTURO",
+         "Phone1" : "3175792467",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1019081241",
+         "CardName" : "SAENZ TRINIDAD JAHYR NORBERTO",
+         "Phone1" : "3208005879",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1019120723",
+         "CardName" : "MUÑOZ RINCON ALEJANDRO",
+         "Phone1" : "3202003283",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1020448693",
+         "CardName" : "AGUDELO FORONDO HUGO FELIPE",
+         "Phone1" : "3112413382",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1022334339",
+         "CardName" : "BELTRAN URREGO NELSON",
+         "Phone1" : "3132639387",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1022344294",
+         "CardName" : "RUBIANO BERNAL JUAN BAUTISTA",
+         "Phone1" : "3102188831",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1022383162",
+         "CardName" : "DURAN ELEJALDE CARLOS ALBERTO",
+         "Phone1" : "3107798166",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1022413939",
+         "CardName" : "MEJIA MONCADA BRAYAN ALIRIO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1022421847",
+         "CardName" : "PINTO NAVARRO DAVID STEWART",
+         "Phone1" : "3007752672",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1022963150",
+         "CardName" : "CAMARGO CAICEDO JHONATAN ANDRES",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1022982179",
+         "CardName" : "GRANADOS LEGUISAMON JHON ALEXANDER",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1023884476",
+         "CardName" : "CAMARGO  EDISON",
+         "Phone1" : "3144250113",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1023904747",
+         "CardName" : "RODRIGUEZ  HERLEY",
+         "Phone1" : "3233206269",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1024561263",
+         "CardName" : "GUTIERREZ LOPEZ JOHAN ALBERTO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1026563976",
+         "CardName" : "MOYA BALLER LIZANDRO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1026581048",
+         "CardName" : "ARTEAGA BURGOS CRISTIAN FERNANDO",
+         "Phone1" : "3209878493",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1026581169",
+         "CardName" : "RUIZ SANCHEZ NELSON",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1028662281",
+         "CardName" : "INFANTE RODRIGUEZ DANILSON BRAYAN",
+         "Phone1" : "3203932132",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C10295143",
+         "CardName" : "REYES  ALFREDO",
+         "Phone1" : "3102537344",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1030581584",
+         "CardName" : "SANDOBAL GALINDO WILMER ALBERTO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1030650041",
+         "CardName" : "AYALA PAREDES JORGE ARMANDO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1030652741",
+         "CardName" : "SALAMANCA VEGA CIRO",
+         "Phone1" : "3157765810",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1031181119",
+         "CardName" : "PARRA RODRIGUEZ LEONARDO",
+         "Phone1" : "3118627541",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1033728030",
+         "CardName" : "ZULUAGA VENEGAS ANDRES CAMILO",
+         "Phone1" : "3202116492",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1033772628",
+         "CardName" : "MORALES PEDRAZA WILMAR ANDRADE",
+         "Phone1" : "3013836395",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1033779571",
+         "CardName" : "NINO SALAMANCA WILMER ANTONIO",
+         "Phone1" : "3227585067",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1033796759",
+         "CardName" : "SOGAMOSO SILVA MAICOL YESID",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1036222415",
+         "CardName" : "QUINTERO OSPINA NORBEY",
+         "Phone1" : "3058610612",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1038104401",
+         "CardName" : "GOEZ HERNANDEZ LUIS ALFREDO",
+         "Phone1" : "3146646952",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1038112127",
+         "CardName" : "RUIZ BRAVO LUIS ANGEL",
+         "Phone1" : "3113209126",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1038115789",
+         "CardName" : "AGUDELO LOPEZ JHON JAIRO",
+         "Phone1" : "3127620689",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1038436817",
+         "CardName" : "MONTES NAVARRO GERMAN MANUEL",
+         "Phone1" : "3187008326",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1038476824",
+         "CardName" : "GARCIA RIVERA JOSE ANTONIO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1039682202",
+         "CardName" : "GAITAN ARANGO JORGE ELIECER",
+         "Phone1" : "3168165396",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1039686010",
+         "CardName" : "MOLANO ARCHILA JHOAN CAMILO",
+         "Phone1" : "3225152159",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1039704126",
+         "CardName" : "DELGADO BENITEZ JOSE DANIEL",
+         "Phone1" : "3154101028",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C10487374",
+         "CardName" : "GARCIA VIAFARA DUVAR HELI",
+         "Phone1" : "3147895623",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C10495452",
+         "CardName" : "PALOMINO OCORO EVELIO",
+         "Phone1" : "3184412202",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1049562222",
+         "CardName" : "ACUÑA VILLEGAS LEONEL",
+         "Phone1" : "3125546660",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1049615785",
+         "CardName" : "GIL RAMIREZ CESAR AUGUSTO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1049644007",
+         "CardName" : "ROJAS ABAUNZA SEBASTIAN CAMILO",
+         "Phone1" : "3202556824",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1049794037",
+         "CardName" : "CASTAÑEDA MARTINEZ WILMER ANTONIO",
+         "Phone1" : "3012203382",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1049896238",
+         "CardName" : "VILLAFAÑE COGOLLO MAWER",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1050923412",
+         "CardName" : "PALACIO ALCOCER LUIS DAVID",
+         "Phone1" : "3160754255",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1051474490",
+         "CardName" : "PRECIADO ACEVEDO MILRON HERNANDO",
+         "Phone1" : "3202671806",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1052021085",
+         "CardName" : "NIÑO PRIETO DIEGO YAMIR",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1053799844",
+         "CardName" : "AGUILAR ROPERO ARLEY",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C10552148",
+         "CardName" : "URRUTIA MANUEL MARIA",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1056774512",
+         "CardName" : "GONZALEZ  FERNEY",
+         "Phone1" : "3178419401",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1057410492",
+         "CardName" : "BAUTISTA LEGUIZAMON RAFAEL HERNANDO",
+         "Phone1" : "3103437703",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1057411433",
+         "CardName" : "LOPEZ BERMUDEZ JOSE LUIS",
+         "Phone1" : "3125051864",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1057411586",
+         "CardName" : "VARGAS ROMERO JUAN FRANCISCO",
+         "Phone1" : "3118863895",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1057411886",
+         "CardName" : "CUESTA MENDOZA WILMER ALEXANDER",
+         "Phone1" : "3102287708",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1058058141",
+         "CardName" : "CAMARGO MORENO ELBER YOBANY",
+         "Phone1" : "3112340560",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1058324013",
+         "CardName" : "MARTINEZ BELTRAN WILMER ALEJANDRO",
+         "Phone1" : "3219262748",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1061716607",
+         "CardName" : "RODRIGUEZ ALZATE LUIS ALFREDO",
+         "Phone1" : "3172358158",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1062319355",
+         "CardName" : "GONZALEZ MURILLO BREINER ALEXIS",
+         "Phone1" : "3223092684",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1062404570",
+         "CardName" : "OÑATE CALDERON NICOLAS ENRIQUE",
+         "Phone1" : "3166506907",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1063174423",
+         "CardName" : "PADILLA BAUTISTA EUMAR LUIS",
+         "Phone1" : "3013582873",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1063277318",
+         "CardName" : "PUPO URRUTIA JOSE ANDRES",
+         "Phone1" : "3215222031",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1063487772",
+         "CardName" : "MEJIA TOLOZA OSNAIDER",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1064836413",
+         "CardName" : "SEPULVEDA OSORIO JHON JAIRO",
+         "Phone1" : "3204538236",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1065592684",
+         "CardName" : "MERCADO BAYONA OLMER JOSE",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1065838795",
+         "CardName" : "MARTINEZ CANA EDUAR ALFONSO",
+         "Phone1" : "3177971080",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1067594596",
+         "CardName" : "MAESTRE CACERES LUIS ANGEL",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1069129127",
+         "CardName" : "MARTINEZ MOLINA ADELMO",
+         "Phone1" : "3125711246",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1069433019",
+         "CardName" : "MORENO PINEDA CARLOS DUVAN",
+         "Phone1" : "3208023042",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1070945589",
+         "CardName" : "AREVALO LUNA PAOLO ANDRES",
+         "Phone1" : "3142094016",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1072523880",
+         "CardName" : "PADILLA GONZALEZ CESAR ANDRES",
+         "Phone1" : "3003053155",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1072525170",
+         "CardName" : "PEREZ REYES REMBERTO ANTONIO",
+         "Phone1" : "3046296550",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1072745611",
+         "CardName" : "MORENO MARTINEZ ORLANDY",
+         "Phone1" : "3112018800",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1072920142",
+         "CardName" : "BRICEÑO MORENO JAIDER STIBEN",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1073156820",
+         "CardName" : "MESA CAMARGO HELLMAN FERNEY",
+         "Phone1" : "3189851420",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1073676470",
+         "CardName" : "RODRIGUEZ GALINDO CESAR ANDRES",
+         "Phone1" : "3115651264",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1074134493",
+         "CardName" : "VEKASQUEZ QUINTERO YORDI CAMILO",
+         "Phone1" : "3126636903",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1074134990",
+         "CardName" : "ORTIZ GUTIERREZ RAUL ESNEIDER",
+         "Phone1" : "3106919555",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C10741777",
+         "CardName" : "RAMOS FERNANDEZ JOVAN ESTEBAN",
+         "Phone1" : "31651777079",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1075217022",
+         "CardName" : "CARDONA MADRIGAL CEDRY",
+         "Phone1" : "31531747821",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1075220457",
+         "CardName" : "NARVAEZ MENDEZ JAIRO ALLIERI",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1075221236",
+         "CardName" : "GOMEZ GORDILLO WILFREDO",
+         "Phone1" : "3163564307",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1075246947",
+         "CardName" : "GALINDEZ ARTUNDUAGA REINALDO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1075261205",
+         "CardName" : "TRUJILLO ANDRADE WILLIAM FELIPE",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1075278669",
+         "CardName" : "MEDINA CASTRO FRANCISCO JAVIER",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1075599444",
+         "CardName" : "ARIAS CARDOZO YEISON",
+         "Phone1" : "3228409851",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1075679747",
+         "CardName" : "PAEZ FINO DANIEL NICOLAS",
+         "Phone1" : "3053268741",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1075790426",
+         "CardName" : "BUITRAGO MONTOYA JORGE HERNAN",
+         "Phone1" : "3106567997",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1075874407",
+         "CardName" : "SAZA CASTILLO CRISTHIAN ALBERTO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1077854957",
+         "CardName" : "GAITAN VARON JUAN MIGUEL",
+         "Phone1" : "3103376642",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1077970248",
+         "CardName" : "HERNANDEZ MARTINEZ JAVIER ALEXANDER",
+         "Phone1" : "3115651264",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1078828731",
+         "CardName" : "SAENZ SICACHA SERGIO",
+         "Phone1" : "3133859761",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1082916387",
+         "CardName" : "PEREZ FLORIAN ROBERTO ENRIQUE",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1088245611",
+         "CardName" : "ESPITIA CURA VICTOR ALFONSO",
+         "Phone1" : "3137379305",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1088653317",
+         "CardName" : "CUASTUMAL CAIPE OSCAR ALBERTO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C10902243",
+         "CardName" : "HUMANEZ LEON LEONARDO FABIO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1092911978",
+         "CardName" : "WASORNA DOSABIA CARLOS ARTURO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1094916138",
+         "CardName" : "SANCHEZ CARDONA DIEGO ANDRES",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1096195060",
+         "CardName" : "BARBA GUARIN JOSE MANUEL",
+         "Phone1" : "3013443680",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1096208594",
+         "CardName" : "ALFONSO BARRIOS CARLOS ENRIQUE",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1096235245",
+         "CardName" : "PEÑA ORTIZ DANIEL",
+         "Phone1" : "3154779884",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1098796652",
+         "CardName" : "SEPULVEDA MEJIA JONATHAN JAVIER",
+         "Phone1" : "3132669341",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1100336110",
+         "CardName" : "PEREZ MARTINEZ JOAN CARLOS",
+         "Phone1" : "3008992123",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1103115973",
+         "CardName" : "MEDINA BARON CARLOS JESUS",
+         "Phone1" : "31074113850",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1103470741",
+         "CardName" : "ALVAREZ SANTOS ANTONIO",
+         "Phone1" : "3166232552",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1104129671",
+         "CardName" : "ARANGO VASQUEZ YEISON",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1104130567",
+         "CardName" : "VILLAMIZAR CARRANZA JAIR",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1104872598",
+         "CardName" : "GARAVITO PINTO KEIMER YESID",
+         "Phone1" : "3045597566",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1105615322",
+         "CardName" : "FALLA HILARION EDISSON LIBARDO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1105615760",
+         "CardName" : "LAVERDE ROCHA DIEGO RAMON",
+         "Phone1" : "3203669228",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1105785631",
+         "CardName" : "TRIANA CUELLAR HECTOR ARMANDO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1106308723",
+         "CardName" : "BORJA BARRETO JOSSER MATEO",
+         "Phone1" : "3142281446",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1106453746",
+         "CardName" : "GALICIA LOZANO CELIAR",
+         "Phone1" : "3182726147",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1106788359",
+         "CardName" : "ROJAS OLAYA LUZ DARY",
+         "Phone1" : "3015414458",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1110446800",
+         "CardName" : "GONZALEZ BUITRAGO JOSE FERNEY",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1110503010",
+         "CardName" : "MURCIA CARDOZO ALEXANDER",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1110519560",
+         "CardName" : "LIZARAZO BARBOSA WILMER ALEXANDER",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1110576714",
+         "CardName" : "ROJAS CALDERON NICOLAS AUGUSTO",
+         "Phone1" : "3184969129",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1111788498",
+         "CardName" : "MURILLO ZUÑIGA MARLYN YICELA",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1112464428",
+         "CardName" : "OBREGON GUERRERO YOLIER",
+         "Phone1" : "3212619656",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1113036117",
+         "CardName" : "USUGA QUINTERO ANDRES",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1115192652",
+         "CardName" : "SERNA DIAZ DANIEL STIVENS",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1115727356",
+         "CardName" : "MENDOZA RIOS ADRIAN",
+         "Phone1" : "3224288339",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1115728279",
+         "CardName" : "CORREA RAMON BREINER FERNEY",
+         "Phone1" : "3203113603",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1115867027",
+         "CardName" : "CAÑON BARRERA ARLEX FERNANDO",
+         "Phone1" : "3124195153",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1115910441",
+         "CardName" : "LOPEZ ALVAREZ HECTOR ARBEY",
+         "Phone1" : "3123722207",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1115914191",
+         "CardName" : "MORENO BARRETO IVAN DANILO",
+         "Phone1" : "3213950314",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1115916972",
+         "CardName" : "TORRES BERNAL CRISTIAN ALFONSO",
+         "Phone1" : "3133406901",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1115918923",
+         "CardName" : "MONROY LOPEZ FREIMAN ESMID",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1116042105",
+         "CardName" : "SANCHEZ ALFONSO MARLY DAYANY",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1116550924",
+         "CardName" : "CASTRO BARRERA YOSET DANILO",
+         "Phone1" : "3112508310",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1116551979",
+         "CardName" : "CAMACHO ROSAS EDISON FABIAN",
+         "Phone1" : "3233267407",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1116613498",
+         "CardName" : "ROJAS ALVAREZ HAYVER ADOLFO",
+         "Phone1" : "3115885717",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1116614034",
+         "CardName" : "RINCON MOSQUERA CHRISTIAN EDUARDO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1116666292",
+         "CardName" : "RICO TUMAY JORGE",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1116784036",
+         "CardName" : "OSORIO MALDONADO DERLIS FRANYELIS",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1116794358",
+         "CardName" : "NIEVES VARGAS ALDERS FLAYDEC",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1117322752",
+         "CardName" : "MARTINEZ TOVAR JOHN ALEJANDRO",
+         "Phone1" : "3502582414",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1117322925",
+         "CardName" : "GUALDRON CEDEÑO WILMER",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1117523338",
+         "CardName" : "CALDERON MUÑOZ FAIVER ANDRES",
+         "Phone1" : "3224359191",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1117805085",
+         "CardName" : "REYES QUEBRADA JUAN DIEGO",
+         "Phone1" : "3134604393",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1117808035",
+         "CardName" : "LAGUNA VARGAS FERNANDO",
+         "Phone1" : "3209016371",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1118120778",
+         "CardName" : "ACEVEDO PINTO HERNAN ALBEIRO",
+         "Phone1" : "3144808981",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1118120782",
+         "CardName" : "UMAÑA ORTIZ YEYSON OBDULIO",
+         "Phone1" : "3212555193",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1118120920",
+         "CardName" : "PINEDA MORALES GUSTAVO ALEXANDER",
+         "Phone1" : "3124700766",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1118122394",
+         "CardName" : "BUITRAGO RAMIREZ OSCAR",
+         "Phone1" : "3106080973",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1118125064",
+         "CardName" : "BALLESTEROS ROJAS RICARDO",
+         "Phone1" : "3144886539",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1118168798",
+         "CardName" : "BERNAL AGUIRRE LUIS CARLOS",
+         "Phone1" : "3212743959",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1118201003",
+         "CardName" : "MARTINEZ MENDEZ EDUAR",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1118532191",
+         "CardName" : "ALVAREZ BERNAL JUAN CARLOS",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1118536769",
+         "CardName" : "VIASUS OROZCO YOLBER",
+         "Phone1" : "3216273817",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1118537001",
+         "CardName" : "FIGUEREDO HERNANDEZ JOSE ARMANDO",
+         "Phone1" : "3116367983",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1118541329",
+         "CardName" : "PARADA BRAVO NELSON ANDRES",
+         "Phone1" : "3112584796",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1118548284",
+         "CardName" : "RUBIO WILLIAM ALEXANDER",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1118549123",
+         "CardName" : "BALLESTEROS MARTINEZ DIEGO GERMAN",
+         "Phone1" : "3208065421",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1118552184",
+         "CardName" : "RAMIREZ DIAZ JENNER ALEJANDRO",
+         "Phone1" : "3502446558",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1118565988",
+         "CardName" : "GUATIBONZA MARTINEZ RODRIGO ANDRES",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1118570221",
+         "CardName" : "GARCIA CORREDOR DIEGO ALEXANDER",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1118581642",
+         "CardName" : "PEREZ ALVIAREZ DICXON ELIONER",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1119946433",
+         "CardName" : "FLORIAN CASTELLANOS RUBEN DARIO",
+         "Phone1" : "3212384878",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1119948091",
+         "CardName" : "VELEZ SIERRA YEISON JAIR",
+         "Phone1" : "3138598289",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1119948318",
+         "CardName" : "RODRIGUEZ RINCON ASDRUBAL",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1119948495",
+         "CardName" : "AMAYA GUTIERREZ DUVIER ALEXIS",
+         "Phone1" : "3214106087",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1119949382",
+         "CardName" : "FLOR LOPEZ LUIS ANDRES",
+         "Phone1" : "3205610139",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1120006224",
+         "CardName" : "PEÑA RODRIGUEZ DANNY OSWALDO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1120006299",
+         "CardName" : "ROZO GUEVARA EDISON",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1120006412",
+         "CardName" : "ROZO GUEVARA YONATAN",
+         "Phone1" : "3202569499",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1120026458",
+         "CardName" : "RAMIREZ USECHE FERNEY",
+         "Phone1" : "3223165310",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1120352449",
+         "CardName" : "MONTOYA CARDENAS FABIAN STIVEN",
+         "Phone1" : "3123162798",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1120352807",
+         "CardName" : "ALVAREZ BUSTOS JORGE ELIECER",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1120354393",
+         "CardName" : "MARULANDA DURAN WILLIAM MAURICIO",
+         "Phone1" : "3132162219",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1120354429",
+         "CardName" : "MOLINA VARON MERY JHANED",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1120358324",
+         "CardName" : "CAÑON CRUZ JOSE GEISSON",
+         "Phone1" : "3214086948",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1120358699",
+         "CardName" : "GARCIA PUENTES MARIA VICTORIA",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1120364307",
+         "CardName" : "BOLANOS RODRIGUEZ FABIAN ANDRES",
+         "Phone1" : "3132728578",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1120376841",
+         "CardName" : "HOLGUIN GONZALEZ GUSTAVO ADOLFO",
+         "Phone1" : "32097000000",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1120376989",
+         "CardName" : "HURTADO CHIRIVIRI WILSON ALEXANDER",
+         "Phone1" : "3228428024",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1120382894",
+         "CardName" : "LOPEZ GUALTERO FABIO ENRIQUE",
+         "Phone1" : "3186090929",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1120382942",
+         "CardName" : "GALINDO ZARTA JAISSON ANDREI",
+         "Phone1" : "3114515520",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1120504388",
+         "CardName" : "GOMEZ CAMELO SERGIO STEVAN",
+         "Phone1" : "3138607596",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1120504967",
+         "CardName" : "SOTELO VERGARA JOSE DUBAN",
+         "Phone1" : "3228039246",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1120506520",
+         "CardName" : "LOMELIN RODRIGUEZ NESTOR FABIAN",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1120583455",
+         "CardName" : "ALMARIO LESMES JOHN EDUAR",
+         "Phone1" : "3124138809",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1120838092",
+         "CardName" : "CEDIEL SERNA NELSON STIVEN",
+         "Phone1" : "3052760440",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1120840550",
+         "CardName" : "MENDEZ VELASQUEZ JHON KENNEDY",
+         "Phone1" : "3222110770",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1120865144",
+         "CardName" : "VELASQUEZ GOMEZ MAURICIO",
+         "Phone1" : "3178454449",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1120866377",
+         "CardName" : "JIMENEZ ROA PEDRO JOAQUIN",
+         "Phone1" : "3132012213",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1120867215",
+         "CardName" : "ROMERO CAMILO ANDRES",
+         "Phone1" : "3112548484",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1120872169",
+         "CardName" : "MONTEALEGRE GOMEZ JHON JAIRO",
+         "Phone1" : "3203532773",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1120874480",
+         "CardName" : "GUTIERREZ DANIELA YURANI",
+         "Phone1" : "3124634790",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1121418076",
+         "CardName" : "SANDOVAL MALAGON MILTON ISAIAS",
+         "Phone1" : "3232327722",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1121817218",
+         "CardName" : "MORENO MILLAN OBEYMER",
+         "Phone1" : "3219305586",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1121818412",
+         "CardName" : "ALFARO VARGAS OSCAR FERNANDO",
+         "Phone1" : "3115651264",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1121822789",
+         "CardName" : "BUITRAGO RENDON DIEGO FERNANDO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1121824029",
+         "CardName" : "PUENTES DIAZ DANIEL ARTURO",
+         "Phone1" : "3165307830",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1121824311",
+         "CardName" : "URREGO PATIÑO OSCAR FERNANDO",
+         "Phone1" : "3155218945",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1121824683",
+         "CardName" : "PARRA VALENCIA EDILSON",
+         "Phone1" : "3133582496",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1121825554",
+         "CardName" : "VALERO AGUIRRE ALEXIS",
+         "Phone1" : "3212455136",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1121825641",
+         "CardName" : "BERMUDEZ MORA NESTOR ALFONSO",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1121825710",
+         "CardName" : "SABOGAL HERNANDEZ GERSSON LEANDRO",
+         "Phone1" : "3114545240",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1121825978",
+         "CardName" : "VELASQUEZ JOSE DEL CARMEN",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1121826789",
+         "CardName" : "PARDO ROMERO JOHN WILMER",
+         "Phone1" : "NO REGISTRA",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1121827080",
+         "CardName" : "BUITRAGO MORENO JUBER FABIAN",
+         "Phone1" : "3124640722",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1121828568",
+         "CardName" : "MENDOZA CORREAL ALBEIRO",
+         "Phone1" : "3123340582",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      },
+      {
+         "odata.etag" : "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+         "CardCode" : "C1121829866",
+         "CardName" : "BOTERO RINCON JOE WILMER",
+         "Phone1" : "3228594119",
+         "Phone2" : null,
+         "Cellular" : null,
+         "EmailAddress" : "fserfunllanos@losolivos.co"
+      }
+   ]
+}

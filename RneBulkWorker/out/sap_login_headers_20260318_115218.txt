@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Date: Wed, 18 Mar 2026 16:55:59 GMT
+Server: Apache/2.4.54 (Unix)
+Content-Type: application/json;odata=minimalmetadata;charset=utf-8
+Vary: Accept-Encoding
+Set-Cookie: B1SESSION=569df128-22eb-11f1-8000-0050569ed68c;HttpOnly;;Secure;SameSite=None
+Set-Cookie: ROUTEID=.node9; path=/;Secure;SameSite=None
+Transfer-Encoding: chunked
+

@@ -1,0 +1,7 @@
+﻿Total socios evaluados: 102603
+Coincidencias COR en RNE: 152
+Coincidencias TEL en RNE: 1048
+NO CONTACTAR: 1107
+HABILITADO: 101496
+CSV: .\out\resultado_rne_socios_todos_20260318_154649.csv
+JSON: .\out\resultado_rne_socios_todos_20260318_154649.json

@@ -1,0 +1,6 @@
+{
+   "odata.metadata" : "https://181.79.11.178:50000/b1s/v1/$metadata#B1Sessions/@Element",
+   "SessionId" : "569df128-22eb-11f1-8000-0050569ed68c",
+   "Version" : "1000191",
+   "SessionTimeout" : 30
+}
