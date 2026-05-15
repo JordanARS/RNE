@@ -88,3 +88,11 @@ D:\BIBLIOTECAS\Documents\Proyectos Desarrollo Serfunllanos\2026\RNE\RneBulkWorke
 D:\BIBLIOTECAS\Documents\Proyectos Desarrollo Serfunllanos\2026\RNE\RneBulkWorker\obj\Debug\net9.0\RneBulkWorker.pdb
 D:\BIBLIOTECAS\Documents\Proyectos Desarrollo Serfunllanos\2026\RNE\RneBulkWorker\obj\Debug\net9.0\RneBulkWorker.genruntimeconfig.cache
 D:\BIBLIOTECAS\Documents\Proyectos Desarrollo Serfunllanos\2026\RNE\RneBulkWorker\obj\Debug\net9.0\ref\RneBulkWorker.dll
+D:\BIBLIOTECAS\Documents\Proyectos Desarrollo Serfunllanos\2026\RNE\RneBulkWorker\bin\Debug\net9.0\out\resultado_rne_socios_20260318_143753.json
+D:\BIBLIOTECAS\Documents\Proyectos Desarrollo Serfunllanos\2026\RNE\RneBulkWorker\bin\Debug\net9.0\out\resultado_rne_socios_20260318_143942.json
+D:\BIBLIOTECAS\Documents\Proyectos Desarrollo Serfunllanos\2026\RNE\RneBulkWorker\bin\Debug\net9.0\out\resultado_rne_socios_20260318_150054.json
+D:\BIBLIOTECAS\Documents\Proyectos Desarrollo Serfunllanos\2026\RNE\RneBulkWorker\bin\Debug\net9.0\out\resultado_rne_socios_todos_20260318_154649.json
+D:\BIBLIOTECAS\Documents\Proyectos Desarrollo Serfunllanos\2026\RNE\RneBulkWorker\bin\Debug\net9.0\out\sap_businesspartners_20260318_115218.json
+D:\BIBLIOTECAS\Documents\Proyectos Desarrollo Serfunllanos\2026\RNE\RneBulkWorker\bin\Debug\net9.0\out\sap_businesspartners_top300.json
+D:\BIBLIOTECAS\Documents\Proyectos Desarrollo Serfunllanos\2026\RNE\RneBulkWorker\bin\Debug\net9.0\out\sap_login_20260318_115218.json
+D:\BIBLIOTECAS\Documents\Proyectos Desarrollo Serfunllanos\2026\RNE\RneBulkWorker\obj\Debug\net9.0\RneBulkWorker.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RneBulkWorker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41a0ec7e87858d8aabbe781c21fc5170ecdc4183")]
 [assembly: System.Reflection.AssemblyProductAttribute("RneBulkWorker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RneBulkWorker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

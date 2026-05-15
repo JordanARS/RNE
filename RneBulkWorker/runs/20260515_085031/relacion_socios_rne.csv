@@ -1,0 +1,5 @@
+﻿card_code,card_name,email,email_in_rne,phones,phone_in_rne,processed_at
+C0001,,persona1@correo.com,false,3001234567,false,2026-05-15T08:51:32.6326968-05:00
+C0002,,persona2@correo.com,false,6012345678,false,2026-05-15T08:51:32.6326968-05:00
+C0003,,,false,,false,2026-05-15T08:51:32.6326968-05:00
+C0004,,,false,,false,2026-05-15T08:51:32.6326968-05:00
